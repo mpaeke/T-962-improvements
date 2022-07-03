@@ -10,5 +10,6 @@
 
 /* Returns the GIT version */
 const char* Version_GetGitVersion(void);
+const char* Version_String = "version 0.5.2 b";
 
 #endif /* VERSION_H_ */
